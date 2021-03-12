@@ -3,7 +3,5 @@
 
 
 # Hi, I'm Tanay!
-
-I'm a student who loves to build things with code. Learn more about me [here](https://tanayb11.vercel.app).
 </div>
 
